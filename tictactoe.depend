@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657151159 source:c:\users\a\documents\cyberdefense practice\c\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
